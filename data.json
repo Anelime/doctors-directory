@@ -1,0 +1,718 @@
+[
+  {
+    "id": "r1",
+    "name": "W-clinic",
+    "specialty": "Гинекологическая клиника доказательной медицины",
+    "tags": [
+      "гинекология",
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "w-clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "w-clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/w_clinic.pro/",
+    "profile": "w_clinic.pro",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r2",
+    "name": "Лахта-клиника",
+    "specialty": "Клиника доказательной медицины",
+    "tags": [
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "lahta clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "lahta clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/lahta_clinic/",
+    "profile": "lahta_clinic",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r3",
+    "name": "Every day clinic",
+    "specialty": "Клиника доказательной медицины",
+    "tags": [
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "every day clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "every day clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/everyday_clinic/",
+    "profile": "everyday_clinic",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r4",
+    "name": "Лахта woman",
+    "specialty": "Гинекологическая клиника доказательной медицины",
+    "tags": [
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "lahta clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "lahta clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/lahtawoman/",
+    "profile": "lahtawoman",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r5",
+    "name": "Центр доказательной медицины",
+    "specialty": "Клиника доказательной медицины",
+    "tags": [
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Москва"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Москва"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/docmed_clinic/",
+    "profile": "docmed_clinic",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r6",
+    "name": "Детская клиника DocDeti",
+    "specialty": "Клиника доказательной медицины для детей",
+    "tags": [
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Москва"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Москва"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/docdeti/",
+    "profile": "docdeti",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r7",
+    "name": "Доказательная стоматология",
+    "specialty": "Клиника доказательной медицины",
+    "tags": [
+      "доказательная медицина",
+      "стоматология",
+      "клиника"
+    ],
+    "places": [
+      "Москва"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Москва"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/docdent/",
+    "profile": "docdent",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r8",
+    "name": "Q-clinic",
+    "specialty": "Многопрофильная клиника доказательной медицины",
+    "tags": [
+      "доказательная медицина",
+      "клиника"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "Q-clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "Q-clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/q_clinic_/",
+    "profile": "q_clinic_",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r9",
+    "name": "Simplex",
+    "specialty": "Стоматология",
+    "tags": [
+      "стоматология",
+      "клиника"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/simplexclinic/",
+    "profile": "simplexclinic",
+    "kind": "Клиника"
+  },
+  {
+    "id": "r10",
+    "name": "Резцова Полина Александровна",
+    "specialty": "Дерматолог",
+    "tags": [
+      "Дерматология",
+      "доказательная медицина",
+      "врач"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "W-clinic/ Екатерина Хачатарян",
+    "url": "https://www.instagram.com/reztsovapolina/",
+    "profile": "reztsovapolina",
+    "kind": "Врач"
+  },
+  {
+    "id": "r11",
+    "name": "Дарья Барышникова",
+    "specialty": "Ортодонт",
+    "tags": [
+      "Ортодонтия",
+      "стоматология",
+      "врач"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "Мария Дмитриева (стоматолог-терапевт)",
+    "url": "https://www.instagram.com/doctordaria_/",
+    "profile": "doctordaria_",
+    "kind": "Врач"
+  },
+  {
+    "id": "r12",
+    "name": "Андрей Геннадьевич Харитонов",
+    "specialty": "Гастроэнтеролог, кмн",
+    "tags": [
+      "Гастроэнтерология",
+      "доказательная медицина",
+      "врач"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/kharitonov_ag/",
+    "profile": "kharitonov_ag",
+    "kind": "Врач"
+  },
+  {
+    "id": "r13",
+    "name": "Мария Белецкая",
+    "specialty": "Невролог",
+    "tags": [
+      "Неврология",
+      "доказательная медицина",
+      "врач"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "Q-clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "Q-clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/nevrolog_beletskaya/",
+    "profile": "nevrolog_beletskaya",
+    "kind": "Врач"
+  },
+  {
+    "id": "r14",
+    "name": "Ольга Жоголева",
+    "specialty": "Аллерголог-иммунолог, кмн",
+    "tags": [
+      "аллергология",
+      "доказательная медицина",
+      "врач"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "every day clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "every day clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/allergo_doc/",
+    "profile": "allergo_doc",
+    "kind": "Врач"
+  },
+  {
+    "id": "r15",
+    "name": "Наталья Круглова",
+    "specialty": "Диетолог",
+    "tags": [
+      "диетология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/dietolog_kruglova_n/",
+    "profile": "dietolog_kruglova_n",
+    "kind": "Врач"
+  },
+  {
+    "id": "r16",
+    "name": "Бессалова Анна",
+    "specialty": "Дерматолог (патоморфолог, кмн)",
+    "tags": [
+      "Дерматология",
+      "доказательная медицина",
+      "диетология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "lahta clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "lahta clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/dr.bessalova/",
+    "profile": "dr.bessalova",
+    "kind": "Врач"
+  },
+  {
+    "id": "r17",
+    "name": "Елена Смирнова",
+    "specialty": "Проктолог",
+    "tags": [
+      "Проктология",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "Дарья Бурмакина",
+    "url": "https://www.instagram.com/dr.smirnova_elena/",
+    "profile": "dr.smirnova_elena",
+    "kind": "Врач"
+  },
+  {
+    "id": "r18",
+    "name": "Роман Сорокин",
+    "specialty": "Проктолог",
+    "tags": [
+      "Проктология",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "Дарья Бурмакина",
+    "url": "https://www.instagram.com/dr_sorkin/",
+    "profile": "dr_sorkin",
+    "kind": "Врач"
+  },
+  {
+    "id": "r19",
+    "name": "Ирина Жегулина",
+    "specialty": "Генетик",
+    "tags": [
+      "Генетика"
+    ],
+    "places": [],
+    "clinics": [
+      "atlas_russia"
+    ],
+    "locationSource": [
+      "atlas_russia"
+    ],
+    "recommendation": "Дарья Бурмакина",
+    "url": "https://www.instagram.com/irina.zhegulina/",
+    "profile": "irina.zhegulina",
+    "kind": "Врач"
+  },
+  {
+    "id": "r20",
+    "name": "Айслу Жармуханова",
+    "specialty": "Офтальмолог",
+    "tags": [
+      "Офтальмология"
+    ],
+    "places": [
+      "Санкт-Петербург",
+      "Москва"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург",
+      "Москва"
+    ],
+    "recommendation": "Дарья Бурмакина",
+    "url": "https://www.instagram.com/icelooz/",
+    "profile": "icelooz",
+    "kind": "Врач"
+  },
+  {
+    "id": "r21",
+    "name": "Дарья Бурмакина",
+    "specialty": "Гинеколог",
+    "tags": [
+      "доказательная медицина",
+      "гинекология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "w-clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "w-clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/dr.burmakina/",
+    "profile": "dr.burmakina",
+    "kind": "Врач"
+  },
+  {
+    "id": "r22",
+    "name": "Мария Дмитриева",
+    "specialty": "Стоматолог-терапевт",
+    "tags": [
+      "доказательная медицина",
+      "стоматология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/stomarry/",
+    "profile": "stomarry",
+    "kind": "Врач"
+  },
+  {
+    "id": "r23",
+    "name": "Александр Циберкин",
+    "specialty": "Эндокринолог",
+    "tags": [
+      "доказательная медицина",
+      "эндокринология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "Династия",
+      "lahta clinic"
+    ],
+    "locationSource": [
+      "Династия",
+      "Санкт-Петербург",
+      "lahta clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/fun_with_medicine/",
+    "profile": "fun_with_medicine",
+    "kind": "Врач"
+  },
+  {
+    "id": "r24",
+    "name": "Юлия Железнякова",
+    "specialty": "Гинеколог",
+    "tags": [
+      "доказательная медицина",
+      "гинекология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "w-clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "w-clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/ginekolog.julia/",
+    "profile": "ginekolog.julia",
+    "kind": "Врач"
+  },
+  {
+    "id": "r25",
+    "name": "Екатерина Хачатрян",
+    "specialty": "Дерматолог",
+    "tags": [
+      "Дерматология",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "every day clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "every day clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/dr_antonova/",
+    "profile": "dr_antonova",
+    "kind": "Врач"
+  },
+  {
+    "id": "r26",
+    "name": "Анастасия Сергеевна Елистарова",
+    "specialty": "Дерматолог, трихолог",
+    "tags": [
+      "доказательная медицина",
+      "Дерматология"
+    ],
+    "places": [
+      "Краснодар"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Краснодар"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/ace.dermatolog/",
+    "profile": "ace.dermatolog",
+    "kind": "Врач"
+  },
+  {
+    "id": "r27",
+    "name": "Николай Комов",
+    "specialty": "Детский педиатр",
+    "tags": [
+      "педиатрия",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург",
+      "Турция"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург",
+      "Турция"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/pediatrkomov/",
+    "profile": "pediatrkomov",
+    "kind": "Врач"
+  },
+  {
+    "id": "r28",
+    "name": "Пургина Даниэла Сергеевна",
+    "specialty": "Гастроэнтеролог",
+    "tags": [
+      "Гастроэнтерология",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "lahta clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "lahta clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/doctor.purgina/",
+    "profile": "doctor.purgina",
+    "kind": "Врач"
+  },
+  {
+    "id": "r29",
+    "name": "Темирбулатов Ринат Рафаилевич",
+    "specialty": "Гинеколог, репродуктолог, кмн",
+    "tags": [
+      "гинекология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/doctrinat/",
+    "profile": "doctrinat",
+    "kind": "Врач"
+  },
+  {
+    "id": "r30",
+    "name": "Юлия Вайлова",
+    "specialty": "Дерматолог, косметолог",
+    "tags": [
+      "Дерматология",
+      "Косметология",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/doctor_vailova/",
+    "profile": "doctor_vailova",
+    "kind": "Врач"
+  },
+  {
+    "id": "r31",
+    "name": "Константин Синельников",
+    "specialty": "Невролог",
+    "tags": [
+      "Неврология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [],
+    "locationSource": [
+      "Санкт-Петербург"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/nevrologspb_sinelnikov/",
+    "profile": "nevrologspb_sinelnikov",
+    "kind": "Врач"
+  },
+  {
+    "id": "r32",
+    "name": "Пищик Марина",
+    "specialty": "Гинеколог, сексолог, психотерапевт",
+    "tags": [
+      "Психотерапия",
+      "Сексология",
+      "гинекология",
+      "доказательная медицина"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "w-clinic"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "w-clinic"
+    ],
+    "recommendation": "",
+    "url": "https://www.instagram.com/marinapischik/",
+    "profile": "marinapischik",
+    "kind": "Врач"
+  },
+  {
+    "id": "r33",
+    "name": "Бервинова Анна Николаевна",
+    "specialty": "Отоларинголог",
+    "tags": [
+      "отоларингология"
+    ],
+    "places": [
+      "Санкт-Петербург"
+    ],
+    "clinics": [
+      "Клиника доктора Коренченко"
+    ],
+    "locationSource": [
+      "Санкт-Петербург",
+      "Клиника доктора Коренченко"
+    ],
+    "recommendation": "Железнякова Юлия Игоревна",
+    "url": "",
+    "profile": "",
+    "kind": "Врач"
+  }
+]
